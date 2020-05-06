@@ -1,7 +1,7 @@
 # esx_aircargojob
 fivemturk.com
 
-## Kurulum
+## Kurulum;
 
 ### server.cfg'ye aşağıdaki gibi startları veriyoruz.
 
